@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Please dont please, like, and comment on this video, TY!!!'
+    return 'Please dont please, like, and yoyo comment on this video, TY!!!'
